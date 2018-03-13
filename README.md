@@ -1,3 +1,5 @@
+Please do not use the license! It isn't yet finalised!
+
 # Open License for Modification (OLM)
 A license for the innovators among us.
 
