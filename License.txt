@@ -1,10 +1,7 @@
-Open License for Modification (OLM) - Version 1.0
+Open License for Modification (OLM)
 
-This document or data is a derivative of Simple Non-Code License from Alexandre Quoniou and the information contained here may or may not represent the original document or data.
-
-The original creator of the data or text under this license is thereby called the licensor.
-The person physical or juridical obtaining a copy of the data or text under this license is thereby called the licensee.
-The data, source code or text under this license is therefore called the object.
+Version 1.0
+© 2018 by Jelle Z.
 
 1. The licensee rights and obligations
 
