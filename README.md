@@ -4,6 +4,8 @@ A license for the innovators among us.
 # Get started
 It's easy - copy the License.txt and include it in your project. You may also include the contents of License.txt in an existing file, but this is discouraged.
 
+Then, change the copyright/licensor information, and ONLY this information, to suit your project.
+
 # What sets this license apart from others?
 The Open License for Modification is unlike any other license. It allows people to copy your project for personal use, but may not distribute it without editing the original object. This can come in handy for a multitude of instances.
 
