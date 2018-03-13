@@ -4,7 +4,7 @@ A license for the innovators among us.
 # Get started
 It's easy - copy the License.txt and include it in your project. You may also include the contents of License.txt in an existing file, but this is discouraged.
 
-# What sets this lecense apart from others?
+# What sets this license apart from others?
 The Open License for Modification is unlike any other license. It allows people to copy your project for personal use, but may not distribute it without editing the original object. This can come in handy for a multitude of instances.
 
 Let's say you have a website with it's source published on GitHub so other people can use your site as a template. However, you don't want them to copy the site exactly - text and all - and publish it under their own domain name.
