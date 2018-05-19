@@ -1,6 +1,7 @@
 Open License for Modification (OLM)
+An updated copy can be obtained @ https://github.com/jelle619/openlicenseformodification/raw/master/License.txt
 
-Version 1.2
+Version 1.2.1
 © 2018 by Jelle Z.
 
 1. The licensee rights and obligations
