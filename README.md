@@ -16,9 +16,7 @@ This is where the Open License for Modification protects you from. It inspires i
 The license won't be a good fit for every project, and it was never meant to be a good fit for every project. Some projects simply require the user to redistrubete the exact same object - in some way or another - to be properly used as it was meant to be. But for the projects that don't require this, please consider using OLM as your license.
 
 # I would like to make some changes
-Please let us know in the 'Issues' section of this project which changes you want to see in future revisions of the license. If you would like to make changes to the OLM license just for your own project, please don't use 'OLM' or Open License for Modification' in the title of your license and mention it's a modified version of the Open License for Modification license by including something like this:
-
-This is a modified version of the Open License for Modification. The original version of this license can be found at https://github.com/jelle619/openlicenseformodification/raw/master/License.txt.
+Please let us know in the 'Issues' section of this project which changes you want to see in future revisions of the license. If you would like to make changes to the OLM license just for your own project, please don't use 'OLM' or Open License for Modification' in the title of your license and mention it's a modified version of the Open License for Modification license.
 
 # Special thanks
 This license is based of MysteryDash's work on the Simple-Non-Code-License which can be found at https://github.com/MysteryDash/Simple-Non-Code-License
