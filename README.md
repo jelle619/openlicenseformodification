@@ -19,3 +19,6 @@ The license won't be a good fit for every project, and it was never meant to be 
 Please let us know in the 'Issues' section of this project which changes you want to see in future revisions of the license. If you would like to make changes to the OLM license just for your own project, please don't use 'OLM' or Open License for Modification' in the title of your license and mention it's a modified version of the Open License for Modification license by including something like this:
 
 This is a modified version of the Open License for Modification. The original version of this license can be found at https://github.com/jelle619/openlicenseformodification/raw/master/License.txt.
+
+# Special thanks
+This license is based of MysteryDash's work on the Simple-Non-Code-License which can be found at https://github.com/MysteryDash/Simple-Non-Code-License
