@@ -11,7 +11,7 @@ The Open License for Modification is unlike any other license. It allows people 
 
 Let's say you have a website with it's source published on GitHub so other people can use your site as a template. However, you don't want them to copy the site exactly - text and all - and publish it under their own domain name.
 
-This is where the Open License for Modification protects you from. It inspires innovation and creativity, yet protects the licensor from someone exactly copying all the hard work you have done and perhaps distribute it as their own.
+This is where the Open License for Modification comes in. It inspires innovation and creativity, yet protects the licensor from someone exactly copying all the hard work you have done and perhaps distribute it as their own.
 
 The license won't be a good fit for every project, and it was never meant to be a good fit for every project. Some projects simply require the user to redistrubete the exact same object - in some way or another - to be properly used as it was meant to be. But for the projects that don't require this, please consider using OLM as your license.
 
