@@ -1,7 +1,7 @@
 ![OLM logo](https://github.com/jelle619/openlicenseformodification/raw/master/Logo.png)
 
-# Open License for Modification (OLM)
-A license for the innovators among us.
+# Welcome
+Open License for Modification - a license for the innovators among us.
 
 # Get started
 It's easy - copy the License.txt and include it in your project. You may also include the contents of License.txt in an existing file, but this is discouraged.
