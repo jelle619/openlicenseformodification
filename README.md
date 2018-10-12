@@ -1,7 +1,6 @@
-# Open License for Modification (OLM)
-
 ![OLM logo](https://github.com/jelle619/openlicenseformodification/raw/master/Logo.png)
 
+# Open License for Modification (OLM)
 A license for the innovators among us.
 
 # Get started
