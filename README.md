@@ -1,6 +1,9 @@
 # Open License for Modification (OLM)
 Open License for Modification - a license for the innovators among us.
 
+# Logo
+![OLM logo](https://github.com/jelle619/openlicenseformodification/raw/master/Logo.png)
+
 # Get started
 It's easy - copy the License.txt and include it in your project. You may also include the contents of License.txt in an existing file, but this is discouraged.
 
@@ -20,6 +23,3 @@ Please let us know in the 'Issues' section of this project which changes you wan
 
 # Special thanks
 This license is based of MysteryDash's work on the Simple-Non-Code-License which can be found at https://github.com/MysteryDash/Simple-Non-Code-License
-
-# Logo
-![OLM logo](https://github.com/jelle619/openlicenseformodification/raw/master/Logo.png)
