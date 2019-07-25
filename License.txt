@@ -1,4 +1,4 @@
-Open License for Modification (OLM) version 1.4
+Open License for Modification (OLM) version 1.4.1
 
 The work this license applies to is hereby reffered to as "object".
 Someone licensing their work it will hereby be reffered to as "author" or "licensor".
@@ -31,3 +31,4 @@ Jelle Z. (2019)
 	4.1. The licensor shall not be bound by any additional or different terms or conditions communicated by the licensee unless explicitly agreed upon.
 	4.2. The licensor has the right to edit at any time the content of this license, however, its effects will not be retroactive.
 	4.3. Any modification made by the licensor to their work or license shall only affect further iterations of the object.
+	4.4 In case any doubts about the implication of parts of the license arise, the licensor's point of view will be valid.
