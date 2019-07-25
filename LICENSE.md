@@ -2,7 +2,7 @@ Open License for Modification (OLM) version 1.4.1
 
 The work this license applies to is hereby reffered to as "object".
 Someone licensing their work it will hereby be reffered to as "author" or "licensor".
-The author of the original work (not licensed by anyone else) will hereby be referred to as "original author" or "original licensor".
+The author of the original unlicensed work will hereby be referred to as "original author" or "original licensor".
 
 Author(s):
 Jelle Z. (2019)
